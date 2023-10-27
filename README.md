@@ -3,4 +3,4 @@
 
 ## Инструкция по сборке и запуску
 1. Сборка проекта: mvn pakage
-2. Запуск из папки target: java -jar .\second-1.0-SNAPSHOT.jar
+2. Запуск из папки target: java -jar .\fourth-1.0-SNAPSHOT.jar
